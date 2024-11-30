@@ -1,0 +1,6243 @@
+grf {
+   grfid:                  "test";
+    name:                   string(STR_GRF_NAME);
+    desc:                   string(STR_GRF_DESCRIPTION);
+    version:                1;
+    min_compatible_version: 1;
+}
+
+//__________________________________________________Spritesets__________________________________________________\\
+//__________________________________________________MWRTShort__________________________________________________\\
+
+spriteset (spriteset_MWRT_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     0,     66,     130,     -31,     -98]
+    [67,     0,     66,     130,     -31,     -98]
+    [134,     0,     66,     130,     -31,     -98]
+    [201,     0,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     131,     66,     130,     -31,     -98]
+    [67,     131,     66,     130,     -31,     -98]
+    [134,     131,     66,     130,     -31,     -98]
+    [201,     131,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     262,     66,     130,     -31,     -98]
+    [67,     262,     66,     130,     -31,     -98]
+    [134,     262,     66,     130,     -31,     -98]
+    [201,     262,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_4, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     393,     66,     130,     -31,     -98]
+    [67,     393,     66,     130,     -31,     -98]
+    [134,     393,     66,     130,     -31,     -98]
+    [201,     393,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_5, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     524,     66,     130,     -31,     -98]
+    [67,     524,     66,     130,     -31,     -98]
+    [134,     524,     66,     130,     -31,     -98]
+    [201,     524,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_6, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     655,     66,     130,     -31,     -98]
+    [67,     655,     66,     130,     -31,     -98]
+    [134,     655,     66,     130,     -31,     -98]
+    [201,     655,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_7, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     786,     66,     130,     -31,     -98]
+    [67,     786,     66,     130,     -31,     -98]
+    [134,     786,     66,     130,     -31,     -98]
+    [201,     786,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_8, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     917,     66,     130,     -31,     -98]
+    [67,     917,     66,     130,     -31,     -98]
+    [134,     917,     66,     130,     -31,     -98]
+    [201,     917,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_9, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1048,     66,     130,     -31,     -98]
+    [67,     1048,     66,     130,     -31,     -98]
+    [134,     1048,     66,     130,     -31,     -98]
+    [201,     1048,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_10, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1179,     66,     130,     -31,     -98]
+    [67,     1179,     66,     130,     -31,     -98]
+    [134,     1179,     66,     130,     -31,     -98]
+    [201,     1179,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_11, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1310,     66,     130,     -31,     -98]
+    [67,     1310,     66,     130,     -31,     -98]
+    [134,     1310,     66,     130,     -31,     -98]
+    [201,     1310,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_12, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1441,     66,     130,     -31,     -98]
+    [67,     1441,     66,     130,     -31,     -98]
+    [134,     1441,     66,     130,     -31,     -98]
+    [201,     1441,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_13, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1572,     66,     130,     -31,     -98]
+    [67,     1572,     66,     130,     -31,     -98]
+    [134,     1572,     66,     130,     -31,     -98]
+    [201,     1572,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_14, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1703,     66,     130,     -31,     -98]
+    [67,     1703,     66,     130,     -31,     -98]
+    [134,     1703,     66,     130,     -31,     -98]
+    [201,     1703,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_15, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1834,     66,     130,     -31,     -98]
+    [67,     1834,     66,     130,     -31,     -98]
+    [134,     1834,     66,     130,     -31,     -98]
+    [201,     1834,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_16, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [0,     1965,     66,     130,     -31,     -98]
+    [67,     1965,     66,     130,     -31,     -98]
+    [134,     1965,     66,     130,     -31,     -98]
+    [201,     1965,     66,     130,     -31,     -98]
+}
+
+//__________________________________________________MWRTTall__________________________________________________\\
+
+spriteset (spriteset_MWRT_1T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     0,     66,     130,     -31,     -98]
+    [335,     0,     66,     130,     -31,     -98]
+    [402,     0,     66,     130,     -31,     -98]
+    [469,     0,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_2T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     131,     66,     130,     -31,     -98]
+    [335,     131,     66,     130,     -31,     -98]
+    [402,     131,     66,     130,     -31,     -98]
+    [469,     131,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_3T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     262,     66,     130,     -31,     -98]
+    [335,     262,     66,     130,     -31,     -98]
+    [402,     262,     66,     130,     -31,     -98]
+    [469,     262,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_4T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     393,     66,     130,     -31,     -98]
+    [335,     393,     66,     130,     -31,     -98]
+    [402,     393,     66,     130,     -31,     -98]
+    [469,     393,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_5T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     524,     66,     130,     -31,     -98]
+    [335,     524,     66,     130,     -31,     -98]
+    [402,     524,     66,     130,     -31,     -98]
+    [469,     524,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_6T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     655,     66,     130,     -31,     -98]
+    [335,     655,     66,     130,     -31,     -98]
+    [402,     655,     66,     130,     -31,     -98]
+    [469,     655,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_7T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     786,     66,     130,     -31,     -98]
+    [335,     786,     66,     130,     -31,     -98]
+    [402,     786,     66,     130,     -31,     -98]
+    [469,     786,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_8T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     917,     66,     130,     -31,     -98]
+    [335,     917,     66,     130,     -31,     -98]
+    [402,     917,     66,     130,     -31,     -98]
+    [469,     917,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_9T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1048,     66,     130,     -31,     -98]
+    [335,     1048,     66,     130,     -31,     -98]
+    [402,     1048,     66,     130,     -31,     -98]
+    [469,     1048,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_10T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1179,     66,     130,     -31,     -98]
+    [335,     1179,     66,     130,     -31,     -98]
+    [402,     1179,     66,     130,     -31,     -98]
+    [469,     1179,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_11T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1310,     66,     130,     -31,     -98]
+    [335,     1310,     66,     130,     -31,     -98]
+    [402,     1310,     66,     130,     -31,     -98]
+    [469,     1310,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_12T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1441,     66,     130,     -31,     -98]
+    [335,     1441,     66,     130,     -31,     -98]
+    [402,     1441,     66,     130,     -31,     -98]
+    [469,     1441,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_13T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1572,     66,     130,     -31,     -98]
+    [335,     1572,     66,     130,     -31,     -98]
+    [402,     1572,     66,     130,     -31,     -98]
+    [469,     1572,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_14T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1703,     66,     130,     -31,     -98]
+    [335,     1703,     66,     130,     -31,     -98]
+    [402,     1703,     66,     130,     -31,     -98]
+    [469,     1703,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_15T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1834,     66,     130,     -31,     -98]
+    [335,     1834,     66,     130,     -31,     -98]
+    [402,     1834,     66,     130,     -31,     -98]
+    [469,     1834,     66,     130,     -31,     -98]
+}
+spriteset (spriteset_MWRT_16T, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [268,     1965,     66,     130,     -31,     -98]
+    [335,     1965,     66,     130,     -31,     -98]
+    [402,     1965,     66,     130,     -31,     -98]
+    [469,     1965,     66,     130,     -31,     -98]
+}
+
+//__________________________________________________MWRTTSB__________________________________________________\\
+
+spriteset (spriteset_MWRT_TSB, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [569,     1455,     64,     215,     -31,     -183] //N
+    [537,     1471,     64,     215,     -31,     -183] //W
+    [601,     1471,     64,     215,     -31,     -183] //E
+    [569,     1487,     64,     215,     -31,     -183] //S
+}
+
+//__________________________________________________CELL__________________________________________________\\
+
+spriteset (spriteset_CELL_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [603,     42,     32,     76,     -14,     -56]
+    [635,     42,     32,     76,     -14,     -56]
+}
+spriteset (spriteset_CELL_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [536,     0,     66,     130,     -32,     -98]
+}
+spriteset (spriteset_CELL_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [628,     138,     16,     44,     -7,     -37]
+    [628,     203,     16,     44,     -7,     -37]
+}
+
+//__________________________________________________CELL_3_FX__________________________________________________\\
+
+spriteset (spriteset_CELL_3_fire, ZOOM_LEVEL_NORMAL, BIT_DEPTH_8BPP, "gfx/microwave_infra_fx.png") {
+    [603,     135,     66,     55,     -32,     -28, ANIM]
+    [603,     200,     66,     55,     -32,     -28, ANIM]
+}
+
+//__________________________________________________MW_MISC__________________________________________________\\
+
+spriteset (spriteset_MWMC_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [543,     178,     54,     73,     -25,     -52]
+}
+spriteset (spriteset_MWMC_2_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [569,     273,     64,     215,     -31,     -186] //N
+    [537,     289,     64,     215,     -31,     -186] //W
+    [601,     289,     64,     215,     -31,     -186] //E
+    [569,     305,     64,     215,     -31,     -186] //S
+}
+spriteset (spriteset_MWMC_2_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/microwave_infra.png") {
+    [569,     535,     64,     215,     -31,     -186] //N
+    [537,     551,     64,     215,     -31,     -186] //W
+    [601,     551,     64,     215,     -31,     -186] //E
+    [569,     567,     64,     215,     -31,     -186] //S
+}
+
+//__________________________________________________RMST__________________________________________________\\
+
+spriteset (spriteset_RMST_1_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [32,        0,     64,     229,     -32,     -197] //N
+    [0,        16,     64,     229,     -32,     -197] //W
+    [64,       16,     64,     229,     -32,     -197] //E
+    [32,       32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_1_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [163,      0,      64,     229,     -32,     -197] //N
+    [131,      16,     64,     229,     -32,     -197] //W
+    [195,      16,     64,     229,     -32,     -197] //E
+    [163,      32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_1_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [32,      262,     64,     229,     -32,     -197] //N
+    [0,       278,     64,     229,     -32,     -197] //W
+    [64,      278,     64,     229,     -32,     -197] //E
+    [32,      294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_1_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [163,     262,     64,     229,     -32,     -197] //N
+    [131,     278,     64,     229,     -32,     -197] //W
+    [195,     278,     64,     229,     -32,     -197] //E
+    [163,     294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_2_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [32,      524,     64,     229,     -32,     -197] //N
+    [0,       540,     64,     229,     -32,     -197] //W
+    [64,      540,     64,     229,     -32,     -197] //E
+    [32,      556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_2_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [163,     524,     64,     229,     -32,     -197] //N
+    [131,     540,     64,     229,     -32,     -197] //W
+    [195,     540,     64,     229,     -32,     -197] //E
+    [163,     556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_2_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [32,      786,     64,     229,     -32,     -197] //N
+    [0,       802,     64,     229,     -32,     -197] //W
+    [64,      802,     64,     229,     -32,     -197] //E
+    [32,      818,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_2_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [163,     786,     64,     229,     -32,     -197] //N
+    [131,     802,     64,     229,     -32,     -197] //W
+    [195,     802,     64,     229,     -32,     -197] //E
+    [163,     818,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_3_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [294,       0,     64,     229,     -32,     -197] //N
+    [262,      16,     64,     229,     -32,     -197] //W
+    [326,      16,     64,     229,     -32,     -197] //E
+    [294,      32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_3_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [425,      0,      64,     229,     -32,     -197] //N
+    [393,      16,     64,     229,     -32,     -197] //W
+    [457,      16,     64,     229,     -32,     -197] //E
+    [425,      32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_3_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [294,     262,     64,     229,     -32,     -197] //N
+    [262,     278,     64,     229,     -32,     -197] //W
+    [326,     278,     64,     229,     -32,     -197] //E
+    [294,     294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_3_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [425,     262,     64,     229,     -32,     -197] //N
+    [393,     278,     64,     229,     -32,     -197] //W
+    [457,     278,     64,     229,     -32,     -197] //E
+    [425,     294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_4_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [294,     524,     64,     229,     -32,     -197] //N
+    [262,     540,     64,     229,     -32,     -197] //W
+    [326,     540,     64,     229,     -32,     -197] //E
+    [294,     556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_4_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [425,     524,     64,     229,     -32,     -197] //N
+    [393,     540,     64,     229,     -32,     -197] //W
+    [457,     540,     64,     229,     -32,     -197] //E
+    [425,     556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_4_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [294,     786,     64,     229,     -32,     -197] //N
+    [262,     802,     64,     229,     -32,     -197] //W
+    [326,     802,     64,     229,     -32,     -197] //E
+    [294,     818,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_4_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [425,     786,     64,     229,     -32,     -197] //N
+    [393,     802,     64,     229,     -32,     -197] //W
+    [457,     802,     64,     229,     -32,     -197] //E
+    [425,     818,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_5_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [556,       0,     64,     229,     -32,     -197] //N
+    [524,      16,     64,     229,     -32,     -197] //W
+    [588,      16,     64,     229,     -32,     -197] //E
+    [556,      32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_5_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [687,      0,      64,     229,     -32,     -197] //N
+    [655,      16,     64,     229,     -32,     -197] //W
+    [719,      16,     64,     229,     -32,     -197] //E
+    [687,      32,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_5_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [556,     262,     64,     229,     -32,     -197] //N
+    [524,     278,     64,     229,     -32,     -197] //W
+    [588,     278,     64,     229,     -32,     -197] //E
+    [556,     294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_5_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [687,     262,     64,     229,     -32,     -197] //N
+    [655,     278,     64,     229,     -32,     -197] //W
+    [719,     278,     64,     229,     -32,     -197] //E
+    [687,     294,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_6_0, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [556,     524,     64,     229,     -32,     -197] //N
+    [524,     540,     64,     229,     -32,     -197] //W
+    [588,     540,     64,     229,     -32,     -197] //E
+    [556,     556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_6_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [687,     524,     64,     229,     -32,     -197] //N
+    [655,     540,     64,     229,     -32,     -197] //W
+    [719,     540,     64,     229,     -32,     -197] //E
+    [687,     556,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_6_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [556,     786,     64,     229,     -32,     -197] //N
+    [524,     802,     64,     229,     -32,     -197] //W
+    [588,     802,     64,     229,     -32,     -197] //E
+    [556,     818,     64,     229,     -32,     -197] //S
+}
+spriteset (spriteset_RMST_6_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [687,     786,     64,     229,     -32,     -197] //N
+    [655,     802,     64,     229,     -32,     -197] //W
+    [719,     802,     64,     229,     -32,     -197] //E
+    [687,     818,     64,     229,     -32,     -197] //S
+}
+
+//__________________________________________________RTOW__________________________________________________\\
+
+spriteset (spriteset_RTOW_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [786,       0,     66,     130,     -32,     -100]
+    [786,     131,     66,     130,     -32,     -100]
+}
+spriteset (spriteset_RTOW_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [853,       0,     66,     130,     -32,     -100]
+    [853,     131,     66,     130,     -32,     -100]
+}
+spriteset (spriteset_RTOW_3, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [786,     262,     66,     130,     -32,     -100]
+    [786,     393,     66,     130,     -32,     -100]
+}
+spriteset (spriteset_RTOW_4, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/radio_infra.png") {
+    [853,     262,     66,     130,     -32,     -100]
+    [853,     393,     66,     130,     -32,     -100]
+}
+
+//__________________________________________________RNAV__________________________________________________\\
+
+spriteset (spriteset_RNAV_1, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [0,         0,      66,      32,     -32,      -1]
+    [0,        32,      66,      32,     -32,      -1]
+    [0,        64,      66,      32,     -32,      -1]
+    [0,        96,      66,      32,     -32,      -1]
+}
+spriteset (spriteset_RNAV_2, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [67,        0,      66,      65,     -32,     -33]
+    [67,       64,      66,      65,     -32,     -33]
+    [134,       0,      66,      65,     -32,     -33]
+    [134,      64,      66,      65,     -32,     -33]
+    []
+    []
+}
+spriteset (spriteset_RNAV_2_0_beacon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [201,       0,       3,       5,       0,      -27]
+    [204,       0,       3,       5,       0,      -27]
+    [207,       0,       3,       5,       0,      -27]
+    [210,       0,       3,       5,       0,      -27]
+    [213,       0,       3,       5,       0,      -27]
+    [216,       0,       3,       5,       0,      -27]
+}
+spriteset (spriteset_RNAV_2_1_beacon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [201,       0,       3,       5,      -1,      -27]
+    [204,       0,       3,       5,      -1,      -27]
+    [207,       0,       3,       5,      -1,      -27]
+    [210,       0,       3,       5,      -1,      -27]
+    [213,       0,       3,       5,      -1,      -27]
+    [216,       0,       3,       5,      -1,      -27]
+}
+spriteset (spriteset_RNAV_2_2_beacon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [201,       0,       3,       5,       0,      -27]
+    [204,       0,       3,       5,       0,      -27]
+    [207,       0,       3,       5,       0,      -27]
+    [210,       0,       3,       5,       0,      -27]
+    [213,       0,       3,       5,       0,      -27]
+    [216,       0,       3,       5,       0,      -27]
+}
+spriteset (spriteset_RNAV_2_3_beacon, ZOOM_LEVEL_NORMAL, BIT_DEPTH_32BPP, "gfx/skyway_infra.png") {
+    [201,       0,       3,       5,       0,      -27]
+    [204,       0,       3,       5,       0,      -27]
+    [207,       0,       3,       5,       0,      -27]
+    [210,       0,       3,       5,       0,      -27]
+    [213,       0,       3,       5,       0,      -27]
+    [216,       0,       3,       5,       0,      -27]
+}
+//__________________________________________________Spritelayouts__________________________________________________\\
+
+//__________________________________________________MWRTShort__________________________________________________\\
+//__________________________________________________MWRT_1__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_1_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_1_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_1_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_1_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_1_view, view) {
+    0:  spritelayout_MWRT_1_0;
+    1:  spritelayout_MWRT_1_1;
+    2:  spritelayout_MWRT_1_2;
+    3:  spritelayout_MWRT_1_3;
+}
+
+//__________________________________________________MWRT_2__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_2_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_2_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_2_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_2_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_2_view, view) {
+    0:  spritelayout_MWRT_2_0;
+    1:  spritelayout_MWRT_2_1;
+    2:  spritelayout_MWRT_2_2;
+    3:  spritelayout_MWRT_2_3;
+}
+
+//__________________________________________________MWRT_3__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_3_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_3_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_3_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_3_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_3_view, view) {
+    0:  spritelayout_MWRT_3_0;
+    1:  spritelayout_MWRT_3_1;
+    2:  spritelayout_MWRT_3_2;
+    3:  spritelayout_MWRT_3_3;
+}
+
+//__________________________________________________MWRT_4__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_4_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_4_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_4_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_4_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_4_view, view) {
+    0:  spritelayout_MWRT_4_0;
+    1:  spritelayout_MWRT_4_1;
+    2:  spritelayout_MWRT_4_2;
+    3:  spritelayout_MWRT_4_3;
+}
+
+//__________________________________________________MWRT_5__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_5_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_5_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_5_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_5_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_5_view, view) {
+    0:  spritelayout_MWRT_5_0;
+    1:  spritelayout_MWRT_5_1;
+    2:  spritelayout_MWRT_5_2;
+    3:  spritelayout_MWRT_5_3;
+}
+
+//__________________________________________________MWRT_6__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_6_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_6_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_6_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_6_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_6_view, view) {
+    0:  spritelayout_MWRT_6_0;
+    1:  spritelayout_MWRT_6_1;
+    2:  spritelayout_MWRT_6_2;
+    3:  spritelayout_MWRT_6_3;
+}
+
+//__________________________________________________MWRT_7__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_7_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_7_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_7_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_7_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_7_view, view) {
+    0:  spritelayout_MWRT_7_0;
+    1:  spritelayout_MWRT_7_1;
+    2:  spritelayout_MWRT_7_2;
+    3:  spritelayout_MWRT_7_3;
+}
+
+//__________________________________________________MWRT_8__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_8_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_8_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_8_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_8_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_8_view, view) {
+    0:  spritelayout_MWRT_8_0;
+    1:  spritelayout_MWRT_8_1;
+    2:  spritelayout_MWRT_8_2;
+    3:  spritelayout_MWRT_8_3;
+}
+
+//__________________________________________________MWRT_9__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_9_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_9_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_9_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_9_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_9_view, view) {
+    0:  spritelayout_MWRT_9_0;
+    1:  spritelayout_MWRT_9_1;
+    2:  spritelayout_MWRT_9_2;
+    3:  spritelayout_MWRT_9_3;
+}
+
+//__________________________________________________MWRT_10__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_10_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_10_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_10_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_10_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_10_view, view) {
+    0:  spritelayout_MWRT_10_0;
+    1:  spritelayout_MWRT_10_1;
+    2:  spritelayout_MWRT_10_2;
+    3:  spritelayout_MWRT_10_3;
+}
+
+//__________________________________________________MWRT_11__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_11_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_11_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_11_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_11_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_11_view, view) {
+    0:  spritelayout_MWRT_11_0;
+    1:  spritelayout_MWRT_11_1;
+    2:  spritelayout_MWRT_11_2;
+    3:  spritelayout_MWRT_11_3;
+}
+
+//__________________________________________________MWRT_12__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_12_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_12_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_12_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_12_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_12_view, view) {
+    0:  spritelayout_MWRT_12_0;
+    1:  spritelayout_MWRT_12_1;
+    2:  spritelayout_MWRT_12_2;
+    3:  spritelayout_MWRT_12_3;
+}
+
+//__________________________________________________MWRT_13__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_13_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_13_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_13_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_13_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_13_view, view) {
+    0:  spritelayout_MWRT_13_0;
+    1:  spritelayout_MWRT_13_1;
+    2:  spritelayout_MWRT_13_2;
+    3:  spritelayout_MWRT_13_3;
+}
+
+//__________________________________________________MWRT_14__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_14_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_14_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_14_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_14_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_14_view, view) {
+    0:  spritelayout_MWRT_14_0;
+    1:  spritelayout_MWRT_14_1;
+    2:  spritelayout_MWRT_14_2;
+    3:  spritelayout_MWRT_14_3;
+}
+
+//__________________________________________________MWRT_15__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_15_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_15_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_15_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_15_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_15_view, view) {
+    0:  spritelayout_MWRT_15_0;
+    1:  spritelayout_MWRT_15_1;
+    2:  spritelayout_MWRT_15_2;
+    3:  spritelayout_MWRT_15_3;
+}
+
+//__________________________________________________MWRT_16__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_16_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_16_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_16_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_16_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_16_view, view) {
+    0:  spritelayout_MWRT_16_0;
+    1:  spritelayout_MWRT_16_1;
+    2:  spritelayout_MWRT_16_2;
+    3:  spritelayout_MWRT_16_3;
+}
+
+//__________________________________________________MWRTTall__________________________________________________\\
+//__________________________________________________MWRT_1T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_1T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_1T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_1T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_1T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_1T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_1T_view, view) {
+    0:  spritelayout_MWRT_1T_0;
+    1:  spritelayout_MWRT_1T_1;
+    2:  spritelayout_MWRT_1T_2;
+    3:  spritelayout_MWRT_1T_3;
+}
+
+//__________________________________________________MWRT_2T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_2T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_2T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_2T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_2T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_2T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_2T_view, view) {
+    0:  spritelayout_MWRT_2T_0;
+    1:  spritelayout_MWRT_2T_1;
+    2:  spritelayout_MWRT_2T_2;
+    3:  spritelayout_MWRT_2T_3;
+}
+
+//__________________________________________________MWRT_3T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_3T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_3T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_3T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_3T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_3T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_3T_view, view) {
+    0:  spritelayout_MWRT_3T_0;
+    1:  spritelayout_MWRT_3T_1;
+    2:  spritelayout_MWRT_3T_2;
+    3:  spritelayout_MWRT_3T_3;
+}
+
+//__________________________________________________MWRT_4T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_4T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_4T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_4T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_4T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_4T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_4T_view, view) {
+    0:  spritelayout_MWRT_4T_0;
+    1:  spritelayout_MWRT_4T_1;
+    2:  spritelayout_MWRT_4T_2;
+    3:  spritelayout_MWRT_4T_3;
+}
+
+//__________________________________________________MWRT_5T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_5T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_5T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_5T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_5T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_5T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_5T_view, view) {
+    0:  spritelayout_MWRT_5T_0;
+    1:  spritelayout_MWRT_5T_1;
+    2:  spritelayout_MWRT_5T_2;
+    3:  spritelayout_MWRT_5T_3;
+}
+
+//__________________________________________________MWRT_6T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_6T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_6T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_6T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_6T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_6T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_6T_view, view) {
+    0:  spritelayout_MWRT_6T_0;
+    1:  spritelayout_MWRT_6T_1;
+    2:  spritelayout_MWRT_6T_2;
+    3:  spritelayout_MWRT_6T_3;
+}
+
+//__________________________________________________MWRT_7T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_7T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_7T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_7T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_7T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_7T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_7T_view, view) {
+    0:  spritelayout_MWRT_7T_0;
+    1:  spritelayout_MWRT_7T_1;
+    2:  spritelayout_MWRT_7T_2;
+    3:  spritelayout_MWRT_7T_3;
+}
+
+//__________________________________________________MWRT_8T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_8T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_8T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_8T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_8T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_8T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_8T_view, view) {
+    0:  spritelayout_MWRT_8T_0;
+    1:  spritelayout_MWRT_8T_1;
+    2:  spritelayout_MWRT_8T_2;
+    3:  spritelayout_MWRT_8T_3;
+}
+
+//__________________________________________________MWRT_9T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_9T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_9T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_9T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_9T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_9T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_9T_view, view) {
+    0:  spritelayout_MWRT_9T_0;
+    1:  spritelayout_MWRT_9T_1;
+    2:  spritelayout_MWRT_9T_2;
+    3:  spritelayout_MWRT_9T_3;
+}
+
+//__________________________________________________MWRT_10T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_10T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_10T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_10T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_10T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_10T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_10T_view, view) {
+    0:  spritelayout_MWRT_10T_0;
+    1:  spritelayout_MWRT_10T_1;
+    2:  spritelayout_MWRT_10T_2;
+    3:  spritelayout_MWRT_10T_3;
+}
+
+//__________________________________________________MWRT_11T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_11T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_11T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_11T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_11T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_11T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_11T_view, view) {
+    0:  spritelayout_MWRT_11T_0;
+    1:  spritelayout_MWRT_11T_1;
+    2:  spritelayout_MWRT_11T_2;
+    3:  spritelayout_MWRT_11T_3;
+}
+
+//__________________________________________________MWRT_12T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_12T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_12T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_12T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_12T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_12T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_12T_view, view) {
+    0:  spritelayout_MWRT_12T_0;
+    1:  spritelayout_MWRT_12T_1;
+    2:  spritelayout_MWRT_12T_2;
+    3:  spritelayout_MWRT_12T_3;
+}
+
+//__________________________________________________MWRT_13T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_13T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_13T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_13T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_13T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_13T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_13T_view, view) {
+    0:  spritelayout_MWRT_13T_0;
+    1:  spritelayout_MWRT_13T_1;
+    2:  spritelayout_MWRT_13T_2;
+    3:  spritelayout_MWRT_13T_3;
+}
+
+//__________________________________________________MWRT_14T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_14T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_14T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_14T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_14T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_14T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_14T_view, view) {
+    0:  spritelayout_MWRT_14T_0;
+    1:  spritelayout_MWRT_14T_1;
+    2:  spritelayout_MWRT_14T_2;
+    3:  spritelayout_MWRT_14T_3;
+}
+
+//__________________________________________________MWRT_15T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_15T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_15T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_15T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_15T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_15T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_15T_view, view) {
+    0:  spritelayout_MWRT_15T_0;
+    1:  spritelayout_MWRT_15T_1;
+    2:  spritelayout_MWRT_15T_2;
+    3:  spritelayout_MWRT_15T_3;
+}
+
+//__________________________________________________MWRT_16T__________________________________________________\\
+
+//painted, w/o bunker
+spritelayout spritelayout_MWRT_16T_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16T(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//painted, with bunker
+spritelayout spritelayout_MWRT_16T_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16T(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, w/o bunker
+spritelayout spritelayout_MWRT_16T_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16T(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+//unpainted, with bunker
+spritelayout spritelayout_MWRT_16T_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_16T(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 130;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_16T_view, view) {
+    0:  spritelayout_MWRT_16T_0;
+    1:  spritelayout_MWRT_16T_1;
+    2:  spritelayout_MWRT_16T_2;
+    3:  spritelayout_MWRT_16T_3;
+}
+
+//__________________________________________________MWRT_TSB__________________________________________________\\
+
+spritelayout spritelayout_MWRT_TSB_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_TSB(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 230;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWRT_TSB_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_TSB(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 230;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWRT_TSB_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_TSB(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 230;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWRT_TSB_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWRT_TSB(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 230;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWRT_TSB, relative_pos) {
+    relative_coord (0,0): spritelayout_MWRT_TSB_N;
+    relative_coord (1,0): spritelayout_MWRT_TSB_W;
+    relative_coord (0,1): spritelayout_MWRT_TSB_E;
+    relative_coord (1,1): spritelayout_MWRT_TSB_S;
+}
+
+//__________________________________________________CELL__________________________________________________\\
+//__________________________________________________CELL_1__________________________________________________\\
+
+spritelayout spritelayout_CELL_1_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_1(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_CELL_1_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_1(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_CELL_1_view, view) {
+    0:  spritelayout_CELL_1_0;
+    1:  spritelayout_CELL_1_1;
+}
+//__________________________________________________CELL_2__________________________________________________\\
+
+spritelayout spritelayout_CELL_2_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_2(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 120;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_CELL_2_view, view) {
+    0:spritelayout_CELL_2_0;
+}
+
+//__________________________________________________CELL_3__________________________________________________\\
+
+spritelayout spritelayout_CELL_3_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_3(0);
+        xextent: 4;
+        yextent: 4;
+        zextent: 44;
+        xoffset: 6;
+        yoffset: 6;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_CELL_3_fire(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 44;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_CELL_3_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_3(1);
+        xextent: 4;
+        yextent: 4;
+        zextent: 44;
+        xoffset: 6;
+        yoffset: 6;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_CELL_3_fire(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 44;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_CELL_3_fire{
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_CELL_3(1);
+        xextent: 4;
+        yextent: 4;
+        zextent: 44;
+        xoffset: 6;
+        yoffset: 6;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_CELL_3_fire(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 44;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_CELL_3_year, current_year) {
+    
+    0..2020:        spritelayout_CELL_3_0;
+    2020..2021:     spritelayout_CELL_3_fire;
+    2021..2022:     spritelayout_CELL_3_1;
+    2022..2024:     spritelayout_CELL_3_0;
+    2024..2025:     spritelayout_CELL_3_fire;
+    2025..2026:     spritelayout_CELL_3_1;
+    2026..5000000:  spritelayout_CELL_3_0;
+}
+
+//__________________________________________________MW_MISC__________________________________________________\\
+//__________________________________________________MWMC_1__________________________________________________\\
+
+spritelayout spritelayout_MWMC_1_0 {
+
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_1(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 74;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWMC_1_view, view) {
+    0:  spritelayout_MWMC_1_0;
+}
+
+//__________________________________________________MWMC_1__________________________________________________\\
+
+spritelayout spritelayout_MWMC_2_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWMC_2_0, relative_pos) {
+    relative_coord (0,0): spritelayout_MWMC_2_0_N;
+    relative_coord (1,0): spritelayout_MWMC_2_0_W;
+    relative_coord (0,1): spritelayout_MWMC_2_0_E;
+    relative_coord (1,1): spritelayout_MWMC_2_0_S;
+}
+
+spritelayout spritelayout_MWMC_2_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_MWMC_2_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_MWMC_2_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWMC_2_1, relative_pos) {
+    relative_coord (0,0): spritelayout_MWMC_2_1_N;
+    relative_coord (1,0): spritelayout_MWMC_2_1_W;
+    relative_coord (0,1): spritelayout_MWMC_2_1_E;
+    relative_coord (1,1): spritelayout_MWMC_2_1_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_MWMC_2_view, view) {
+    0:  switch_MWMC_2_0;
+    1:  switch_MWMC_2_1;
+}
+
+//__________________________________________________RMST__________________________________________________\\
+
+spritelayout spritelayout_RMST_1_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_1_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_1_0_N;
+    relative_coord (1,0): spritelayout_RMST_1_0_W;
+    relative_coord (0,1): spritelayout_RMST_1_0_E;
+    relative_coord (1,1): spritelayout_RMST_1_0_S;
+}
+
+spritelayout spritelayout_RMST_1_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_1_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_1_1_N;
+    relative_coord (1,0): spritelayout_RMST_1_1_W;
+    relative_coord (0,1): spritelayout_RMST_1_1_E;
+    relative_coord (1,1): spritelayout_RMST_1_1_S;
+}
+
+spritelayout spritelayout_RMST_1_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_1_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_1_2_N;
+    relative_coord (1,0): spritelayout_RMST_1_2_W;
+    relative_coord (0,1): spritelayout_RMST_1_2_E;
+    relative_coord (1,1): spritelayout_RMST_1_2_S;
+}
+
+spritelayout spritelayout_RMST_1_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_1_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_1_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_1_3_N;
+    relative_coord (1,0): spritelayout_RMST_1_3_W;
+    relative_coord (0,1): spritelayout_RMST_1_3_E;
+    relative_coord (1,1): spritelayout_RMST_1_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_1_view, view) {
+    0:  switch_RMST_1_0;
+    1:  switch_RMST_1_1;
+    2:  switch_RMST_1_2;
+    3:  switch_RMST_1_3;
+}
+
+spritelayout spritelayout_RMST_2_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_2_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_2_0_N;
+    relative_coord (1,0): spritelayout_RMST_2_0_W;
+    relative_coord (0,1): spritelayout_RMST_2_0_E;
+    relative_coord (1,1): spritelayout_RMST_2_0_S;
+}
+
+spritelayout spritelayout_RMST_2_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_2_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_2_1_N;
+    relative_coord (1,0): spritelayout_RMST_2_1_W;
+    relative_coord (0,1): spritelayout_RMST_2_1_E;
+    relative_coord (1,1): spritelayout_RMST_2_1_S;
+}
+
+spritelayout spritelayout_RMST_2_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_2_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_2_2_N;
+    relative_coord (1,0): spritelayout_RMST_2_2_W;
+    relative_coord (0,1): spritelayout_RMST_2_2_E;
+    relative_coord (1,1): spritelayout_RMST_2_2_S;
+}
+
+spritelayout spritelayout_RMST_2_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_1_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_2_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_2_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_2_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_2_3_N;
+    relative_coord (1,0): spritelayout_RMST_2_3_W;
+    relative_coord (0,1): spritelayout_RMST_2_3_E;
+    relative_coord (1,1): spritelayout_RMST_2_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_2_view, view) {
+    0:  switch_RMST_2_0;
+    1:  switch_RMST_2_1;
+    2:  switch_RMST_2_2;
+    3:  switch_RMST_2_3;
+}
+
+spritelayout spritelayout_RMST_3_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_3_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_3_0_N;
+    relative_coord (1,0): spritelayout_RMST_3_0_W;
+    relative_coord (0,1): spritelayout_RMST_3_0_E;
+    relative_coord (1,1): spritelayout_RMST_3_0_S;
+}
+
+spritelayout spritelayout_RMST_3_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_3_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_3_1_N;
+    relative_coord (1,0): spritelayout_RMST_3_1_W;
+    relative_coord (0,1): spritelayout_RMST_3_1_E;
+    relative_coord (1,1): spritelayout_RMST_3_1_S;
+}
+
+spritelayout spritelayout_RMST_3_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_3_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_3_2_N;
+    relative_coord (1,0): spritelayout_RMST_3_2_W;
+    relative_coord (0,1): spritelayout_RMST_3_2_E;
+    relative_coord (1,1): spritelayout_RMST_3_2_S;
+}
+
+spritelayout spritelayout_RMST_3_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_3_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_3_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_3_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_3_3_N;
+    relative_coord (1,0): spritelayout_RMST_3_3_W;
+    relative_coord (0,1): spritelayout_RMST_3_3_E;
+    relative_coord (1,1): spritelayout_RMST_3_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_3_view, view) {
+    0:  switch_RMST_3_0;
+    1:  switch_RMST_3_1;
+    2:  switch_RMST_3_2;
+    3:  switch_RMST_3_3;
+}
+
+spritelayout spritelayout_RMST_4_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_4_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_4_0_N;
+    relative_coord (1,0): spritelayout_RMST_4_0_W;
+    relative_coord (0,1): spritelayout_RMST_4_0_E;
+    relative_coord (1,1): spritelayout_RMST_4_0_S;
+}
+
+spritelayout spritelayout_RMST_4_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_4_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_4_1_N;
+    relative_coord (1,0): spritelayout_RMST_4_1_W;
+    relative_coord (0,1): spritelayout_RMST_4_1_E;
+    relative_coord (1,1): spritelayout_RMST_4_1_S;
+}
+
+spritelayout spritelayout_RMST_4_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_4_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_4_2_N;
+    relative_coord (1,0): spritelayout_RMST_4_2_W;
+    relative_coord (0,1): spritelayout_RMST_4_2_E;
+    relative_coord (1,1): spritelayout_RMST_4_2_S;
+}
+
+spritelayout spritelayout_RMST_4_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_4_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_4_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_4_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_4_3_N;
+    relative_coord (1,0): spritelayout_RMST_4_3_W;
+    relative_coord (0,1): spritelayout_RMST_4_3_E;
+    relative_coord (1,1): spritelayout_RMST_4_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_4_view, view) {
+    0:  switch_RMST_4_0;
+    1:  switch_RMST_4_1;
+    2:  switch_RMST_4_2;
+    3:  switch_RMST_4_3;
+}
+
+spritelayout spritelayout_RMST_5_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_5_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_5_0_N;
+    relative_coord (1,0): spritelayout_RMST_5_0_W;
+    relative_coord (0,1): spritelayout_RMST_5_0_E;
+    relative_coord (1,1): spritelayout_RMST_5_0_S;
+}
+
+spritelayout spritelayout_RMST_5_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_5_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_5_1_N;
+    relative_coord (1,0): spritelayout_RMST_5_1_W;
+    relative_coord (0,1): spritelayout_RMST_5_1_E;
+    relative_coord (1,1): spritelayout_RMST_5_1_S;
+}
+
+spritelayout spritelayout_RMST_5_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_5_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_5_2_N;
+    relative_coord (1,0): spritelayout_RMST_5_2_W;
+    relative_coord (0,1): spritelayout_RMST_5_2_E;
+    relative_coord (1,1): spritelayout_RMST_5_2_S;
+}
+
+spritelayout spritelayout_RMST_5_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_5_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_5_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_5_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_5_3_N;
+    relative_coord (1,0): spritelayout_RMST_5_3_W;
+    relative_coord (0,1): spritelayout_RMST_5_3_E;
+    relative_coord (1,1): spritelayout_RMST_5_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_5_view, view) {
+    0:  switch_RMST_5_0;
+    1:  switch_RMST_5_1;
+    2:  switch_RMST_5_2;
+    3:  switch_RMST_5_3;
+}
+
+spritelayout spritelayout_RMST_6_0_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_0(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_0_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_0(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_0_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_0(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_0_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_0(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_6_0, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_6_0_N;
+    relative_coord (1,0): spritelayout_RMST_6_0_W;
+    relative_coord (0,1): spritelayout_RMST_6_0_E;
+    relative_coord (1,1): spritelayout_RMST_6_0_S;
+}
+
+spritelayout spritelayout_RMST_6_1_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_1(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_1_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_1(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_1_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_1(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_1_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_1(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_6_1, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_6_1_N;
+    relative_coord (1,0): spritelayout_RMST_6_1_W;
+    relative_coord (0,1): spritelayout_RMST_6_1_E;
+    relative_coord (1,1): spritelayout_RMST_6_1_S;
+}
+
+spritelayout spritelayout_RMST_6_2_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_2(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_2_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_2(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_2_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_2(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_2_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_2(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_6_2, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_6_2_N;
+    relative_coord (1,0): spritelayout_RMST_6_2_W;
+    relative_coord (0,1): spritelayout_RMST_6_2_E;
+    relative_coord (1,1): spritelayout_RMST_6_2_S;
+}
+
+spritelayout spritelayout_RMST_6_3_N {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_3(0);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_3_W {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_3(1);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_3_E {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_3(2);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RMST_6_3_S {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RMST_6_3(3);
+        xextent: 16;
+        yextent: 16;
+        zextent: 220;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_6_3, relative_pos) {
+    relative_coord (0,0): spritelayout_RMST_6_3_N;
+    relative_coord (1,0): spritelayout_RMST_6_3_W;
+    relative_coord (0,1): spritelayout_RMST_6_3_E;
+    relative_coord (1,1): spritelayout_RMST_6_3_S;
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RMST_6_view, view) {
+    0:  switch_RMST_6_0;
+    1:  switch_RMST_6_1;
+    2:  switch_RMST_6_2;
+    3:  switch_RMST_6_3;
+}
+
+//__________________________________________________RTOW__________________________________________________\\
+
+spritelayout spritelayout_RTOW_1_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_1(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RTOW_1_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_1(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RTOW_1_view, view) {
+    0:  spritelayout_RTOW_1_0;
+    1:  spritelayout_RTOW_1_1;
+}
+
+spritelayout spritelayout_RTOW_2_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_2(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RTOW_2_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_2(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RTOW_2_view, view) {
+    0:  spritelayout_RTOW_2_0;
+    1:  spritelayout_RTOW_2_1;
+}
+
+spritelayout spritelayout_RTOW_3_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_3(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RTOW_3_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_3(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RTOW_3_view, view) {
+    0:  spritelayout_RTOW_3_0;
+    1:  spritelayout_RTOW_3_1;
+}
+
+spritelayout spritelayout_RTOW_4_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_4(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RTOW_4_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RTOW_4(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RTOW_4_view, view) {
+    0:  spritelayout_RTOW_4_0;
+    1:  spritelayout_RTOW_4_1;
+}
+
+//__________________________________________________RNAV__________________________________________________\\
+
+spritelayout spritelayout_RNAV_1_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_1(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RNAV_1_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_1(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RNAV_1_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_1(2);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+spritelayout spritelayout_RNAV_1_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_1(3);
+        xextent: 12;
+        yextent: 12;
+        zextent: 75;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RNAV_1_view, view) {
+    0:  spritelayout_RNAV_1_0;
+    1:  spritelayout_RNAV_1_1;
+    2:  spritelayout_RNAV_1_2;
+    3:  spritelayout_RNAV_1_3;
+}
+
+spritelayout spritelayout_RNAV_2_0 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_2(0);
+        xextent: 12;
+        yextent: 12;
+        zextent: 50;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_RNAV_2_0_beacon(animation_frame % 6);
+    }
+}
+
+spritelayout spritelayout_RNAV_2_1 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_2(1);
+        xextent: 12;
+        yextent: 12;
+        zextent: 50;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_RNAV_2_1_beacon(animation_frame % 6);
+    }
+}
+
+spritelayout spritelayout_RNAV_2_2 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_2(2);
+        xextent: 12;
+        yextent: 12;
+        zextent: 50;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_RNAV_2_2_beacon(animation_frame % 6);
+    }
+}
+
+spritelayout spritelayout_RNAV_2_3 {
+    ground {
+        sprite: terrain_type == TILETYPE_SNOW ? GROUNDSPRITE_SNOW : GROUNDSPRITE_NORMAL;
+    }
+    building {
+        sprite: spriteset_RNAV_2(3);
+        xextent: 12;
+        yextent: 12;
+        zextent: 50;
+        xoffset: 0;
+        yoffset: 0;
+        zoffset: 0;
+    }
+    building {
+        sprite: spriteset_RNAV_2_3_beacon(animation_frame % 6);
+    }
+}
+
+switch (FEAT_OBJECTS, SELF, switch_RNAV_2_view, view) {
+    0:  spritelayout_RNAV_2_0;
+    1:  spritelayout_RNAV_2_1;
+    2:  spritelayout_RNAV_2_2;
+    3:  spritelayout_RNAV_2_3;
+}
+
+//__________________________________________________Objects__________________________________________________\\
+//__________________________________________________MWRTShort__________________________________________________\\
+
+item (FEAT_OBJECTS, item_MWRT_1) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_1_view;
+        purchase:               switch_MWRT_1_view;
+        additional_text:    string(STR_MWRT_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_2) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_2_view;
+        purchase:               switch_MWRT_2_view;
+        additional_text:    string(STR_MWRT_2_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_3) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_3);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_3_view;
+        purchase:               switch_MWRT_3_view;
+        additional_text:    string(STR_MWRT_3_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_4) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_4);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_4_view;
+        purchase:               switch_MWRT_4_view;
+        additional_text:    string(STR_MWRT_4_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_5) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_5);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_5_view;
+        purchase:               switch_MWRT_5_view;
+        additional_text:    string(STR_MWRT_5_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_6) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_6);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_6_view;
+        purchase:               switch_MWRT_6_view;
+        additional_text:    string(STR_MWRT_6_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_7) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_7);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_7_view;
+        purchase:               switch_MWRT_7_view;
+        additional_text:    string(STR_MWRT_7_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_8) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_8);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_8_view;
+        purchase:               switch_MWRT_8_view;
+        additional_text:    string(STR_MWRT_8_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_9) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_9);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_9_view;
+        purchase:               switch_MWRT_9_view;
+        additional_text:    string(STR_MWRT_9_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_10) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_10);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_10_view;
+        purchase:               switch_MWRT_10_view;
+        additional_text:    string(STR_MWRT_10_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_11) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_11);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_11_view;
+        purchase:               switch_MWRT_11_view;
+        additional_text:    string(STR_MWRT_11_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_12) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_12);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_12_view;
+        purchase:               switch_MWRT_12_view;
+        additional_text:    string(STR_MWRT_12_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_13) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_13);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_13_view;
+        purchase:               switch_MWRT_13_view;
+        additional_text:    string(STR_MWRT_13_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_14) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_14);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_14_view;
+        purchase:               switch_MWRT_14_view;
+        additional_text:    string(STR_MWRT_14_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_15) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_15);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_15_view;
+        purchase:               switch_MWRT_15_view;
+        additional_text:    string(STR_MWRT_15_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_16) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_16);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_16_view;
+        purchase:               switch_MWRT_16_view;
+        additional_text:    string(STR_MWRT_16_PURCHASE);
+    }
+}
+
+//__________________________________________________MWRTTall__________________________________________________\\
+
+item (FEAT_OBJECTS, item_MWRT_1T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_1T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_1T_view;
+        purchase:               switch_MWRT_1T_view;
+        additional_text:    string(STR_MWRT_1T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_2T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_2T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_2T_view;
+        purchase:               switch_MWRT_2T_view;
+        additional_text:    string(STR_MWRT_2T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_3T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_3T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_3T_view;
+        purchase:               switch_MWRT_3T_view;
+        additional_text:    string(STR_MWRT_3T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_4T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_4T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_4T_view;
+        purchase:               switch_MWRT_4T_view;
+        additional_text:    string(STR_MWRT_4T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_5T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_5T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_5T_view;
+        purchase:               switch_MWRT_5T_view;
+        additional_text:    string(STR_MWRT_5T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_6T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_6T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_6T_view;
+        purchase:               switch_MWRT_6T_view;
+        additional_text:    string(STR_MWRT_6T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_7T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_7T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_7T_view;
+        purchase:               switch_MWRT_7T_view;
+        additional_text:    string(STR_MWRT_7T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_8T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_8T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_8T_view;
+        purchase:               switch_MWRT_8T_view;
+        additional_text:    string(STR_MWRT_8T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_9T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_9T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_9T_view;
+        purchase:               switch_MWRT_9T_view;
+        additional_text:    string(STR_MWRT_9T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_10T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_10T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_10T_view;
+        purchase:               switch_MWRT_10T_view;
+        additional_text:    string(STR_MWRT_10T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_11T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_11T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_11T_view;
+        purchase:               switch_MWRT_11T_view;
+        additional_text:    string(STR_MWRT_11T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_12T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_12T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_12T_view;
+        purchase:               switch_MWRT_12T_view;
+        additional_text:    string(STR_MWRT_12T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_13T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_13T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_13T_view;
+        purchase:               switch_MWRT_13T_view;
+        additional_text:    string(STR_MWRT_13T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_14T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_14T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_14T_view;
+        purchase:               switch_MWRT_14T_view;
+        additional_text:    string(STR_MWRT_14T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_15T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_15T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_15T_view;
+        purchase:               switch_MWRT_15T_view;
+        additional_text:    string(STR_MWRT_15T_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWRT_16T) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_16T);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_MWRT_16T_view;
+        purchase:               switch_MWRT_16T_view;
+        additional_text:    string(STR_MWRT_16T_PURCHASE);
+    }
+}
+
+//__________________________________________________MWRT_TSB__________________________________________________\\
+
+item (FEAT_OBJECTS, item_MWRT_TSB) {
+    property {
+        class:                  "MWRT";
+        classname:              string(STR_MWRT);
+        name:                   string(STR_MWRT_TSB);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  4;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1951,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              1;
+    }
+    graphics { 
+        default:                switch_MWRT_TSB;
+        purchase:               switch_MWRT_TSB;
+        additional_text:    string(STR_MWRT_TSB_PURCHASE);
+    }
+}
+
+//__________________________________________________CELL__________________________________________________\\
+
+item (FEAT_OBJECTS, item_CELL_1) {
+    property {
+        class:                  "CELL";
+        classname:              string(STR_CELL);
+        name:                   string(STR_CELL_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(2001,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_CELL_1_view;
+        purchase:               switch_CELL_1_view;
+        additional_text:    string(STR_CELL_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_CELL_2) {
+    property {
+        class:                  "CELL";
+        classname:              string(STR_CELL);
+        name:                   string(STR_CELL_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1991,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              1;
+    }
+    graphics { 
+        default:                switch_CELL_2_view;
+        purchase:               switch_CELL_2_view;
+        additional_text:    string(STR_CELL_2_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_CELL_3) {
+    property {
+        class:                  "CELL";
+        classname:              string(STR_CELL);
+        name:                   string(STR_CELL_3);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(2019,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME,OBJ_FLAG_ANIMATED);
+        height:                 2;
+        num_views:              1;
+    }
+    graphics {
+        default:                switch_CELL_3_year; 
+        purchase:               switch_CELL_3_year;
+        additional_text:    string(STR_CELL_3_PURCHASE);
+    }
+}
+
+//__________________________________________________MWMC__________________________________________________\\
+
+item (FEAT_OBJECTS, item_MWMC_1) {
+    property {
+        class:                  "MWMC";
+        classname:              string(STR_MWMC);
+        name:                   string(STR_MWMC_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1990,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 2;
+        num_views:              1;
+    }
+    graphics { 
+        default:                switch_MWMC_1_view;
+        purchase:               switch_MWMC_1_view;
+        additional_text:    string(STR_MWMC_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_MWMC_2) {
+    property {
+        class:                  "MWMC";
+        classname:              string(STR_MWMC);
+        name:                   string(STR_MWMC_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1990,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_MWMC_2_view;
+        purchase:               switch_MWMC_2_view;
+        additional_text:    string(STR_MWMC_2_PURCHASE);
+    }
+}
+
+//__________________________________________________RMST__________________________________________________\\
+
+item (FEAT_OBJECTS, item_RMST_1) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1906,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_1_view;
+        purchase:               switch_RMST_1_view;
+        additional_text:    string(STR_RMST_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RMST_2) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1939,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_2_view;
+        purchase:               switch_RMST_2_view;
+        additional_text:    string(STR_RMST_2_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RMST_3) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_3);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1948,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_3_view;
+        purchase:               switch_RMST_3_view;
+        additional_text:    string(STR_RMST_3_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RMST_4) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_4);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1992,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_4_view;
+        purchase:               switch_RMST_4_view;
+        additional_text:    string(STR_RMST_4_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RMST_5) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_5);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1992,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_5_view;
+        purchase:               switch_RMST_5_view;
+        additional_text:    string(STR_RMST_5_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RMST_6) {
+    property {
+        class:                  "RMST";
+        classname:              string(STR_RMST);
+        name:                   string(STR_RMST_6);
+        climates_available:     ALL_CLIMATES;
+        size:                   [2,2];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1992,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 4;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RMST_6_view;
+        purchase:               switch_RMST_6_view;
+        additional_text:    string(STR_RMST_6_PURCHASE);
+    }
+}
+
+//__________________________________________________RTOW__________________________________________________\\
+
+item (FEAT_OBJECTS, item_RTOW_1) {
+    property {
+        class:                  "RTOW";
+        classname:              string(STR_RTOW);
+        name:                   string(STR_RTOW_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1906,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_RTOW_1_view;
+        purchase:               switch_RTOW_1_view;
+        additional_text:    string(STR_RTOW_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RTOW_2) {
+    property {
+        class:                  "RTOW";
+        classname:              string(STR_RTOW);
+        name:                   string(STR_RTOW_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1939,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_RTOW_2_view;
+        purchase:               switch_RTOW_2_view;
+        additional_text:    string(STR_RTOW_2_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RTOW_3) {
+    property {
+        class:                  "RTOW";
+        classname:              string(STR_RTOW);
+        name:                   string(STR_RTOW_3);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1948,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_RTOW_3_view;
+        purchase:               switch_RTOW_3_view;
+        additional_text:    string(STR_RTOW_3_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RTOW_4) {
+    property {
+        class:                  "RTOW";
+        classname:              string(STR_RTOW);
+        name:                   string(STR_RTOW_4);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1992,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              2;
+    }
+    graphics { 
+        default:                switch_RTOW_4_view;
+        purchase:               switch_RTOW_4_view;
+        additional_text:    string(STR_RTOW_4_PURCHASE);
+    }
+}
+
+//__________________________________________________RNAV__________________________________________________\\
+
+item (FEAT_OBJECTS, item_RNAV_1) {
+     property {
+        class:                  "RNAV";
+        classname:              string(STR_RNAV);
+        name:                   string(STR_RNAV_1);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1918,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RNAV_1_view;
+        purchase:               switch_RNAV_1_view;
+        additional_text:    string(STR_RNAV_1_PURCHASE);
+    }
+}
+
+item (FEAT_OBJECTS, item_RNAV_2) {
+     property {
+        class:                  "RNAV";
+        classname:              string(STR_RNAV);
+        name:                   string(STR_RNAV_2);
+        climates_available:     ALL_CLIMATES;
+        size:                   [1,1];
+        build_cost_multiplier:  2;
+        remove_cost_multiplier: 8;
+        introduction_date:      date(1918,1,1);
+        end_of_life_date:       0xFFFFFFFF;
+        object_flags:           bitmask(OBJ_FLAG_REMOVE_IS_INCOME,OBJ_FLAG_ANIMATED);
+        height:                 3;
+        num_views:              4;
+    }
+    graphics { 
+        default:                switch_RNAV_2_view;
+        purchase:               switch_RNAV_2_view;
+        additional_text:    string(STR_RNAV_2_PURCHASE);
+    }
+}

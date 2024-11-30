@@ -1,0 +1,178 @@
+##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME           :Airwave Infrastructure
+STR_GRF_DESCRIPTION    :Description:{}{BLUE}A collection of useless transmitter infrastructure from microwave relays, to radio beacons.
+
+#object classes
+STR_MWRT	:MW Relay Tower
+STR_CELL        :Cellphone Tower
+STR_MWMC      	:Miscellanious Microwave
+STR_RMST        :Radio Mast
+STR_RTOW	:Radio Tower
+STR_RNAV        :Radio Navigation
+
+#object name and description
+STR_MWRT_1            :Vacated microwave tower
+STR_MWRT_1_PURCHASE   :A microwave tower without it's directional antennae.
+
+STR_MWRT_2            :SW microwave tower
+STR_MWRT_2_PURCHASE   :A microwave tower with it's antennae in a southwest orientation.
+
+STR_MWRT_3            :SW/NE microwave tower
+STR_MWRT_3_PURCHASE   :A microwave tower with it's intennae in a southwest, and northeast orientation.
+
+STR_MWRT_4            :NE microwave tower
+STR_MWRT_4_PURCHASE   :A microwave tower with it's antennae in a northeast orientation.
+
+STR_MWRT_5            :SE microwave tower
+STR_MWRT_5_PURCHASE   :A microwave tower with it's antennae in a southeast orientation.
+
+STR_MWRT_6            :NW/SE microwave tower
+STR_MWRT_6_PURCHASE   :A microwave tower with it's antennae in a northwest, and southeast orientation.
+
+STR_MWRT_7            :NW microwave tower
+STR_MWRT_7_PURCHASE   :A microwave tower with it's antennae in a northwest orientation.
+
+STR_MWRT_8            :NW/NE microwave tower
+STR_MWRT_8_PURCHASE   :A microwave tower with it's antennae in a northwest, and northeast orientation.
+
+STR_MWRT_9            :NE/SE microwave tower
+STR_MWRT_9_PURCHASE   :A microwave tower with it's antennae in a northeast, and southeast orientation.
+
+STR_MWRT_10           :SW/SE microwave tower
+STR_MWRT_10_PURCHASE  :A microwave tower with it's antennae in a southwest, and southeast orientation.
+
+STR_MWRT_11           :NW/SW microwave tower
+STR_MWRT_11_PURCHASE  :A microwave tower with it's antennae in a northwest, and southwest orientation.
+
+STR_MWRT_12           :SW/NW/NE microwave tower
+STR_MWRT_12_PURCHASE  :A microwave tower with it's antennae covering all aspects except southeast.
+
+STR_MWRT_13           :NW/NE/SE microwave tower
+STR_MWRT_13_PURCHASE  :A microwave tower with it's antennae covering all aspects except southwest.
+
+STR_MWRT_14           :NE/SE/SW microwave tower
+STR_MWRT_14_PURCHASE  :A microwave tower with it's antennae covering all aspects except northwest.
+
+STR_MWRT_15           :SE/SW/NW microwave tower
+STR_MWRT_15_PURCHASE  :A microwave tower with it's antennae covering all aspects except northeast.
+
+STR_MWRT_16           :NW/NE/SE/SW microwave tower
+STR_MWRT_16_PURCHASE  :A microwave tower with it's antennae covering all aspects.
+
+STR_MWRT_1T            :Tall vacated microwave tower
+STR_MWRT_1T_PURCHASE   :A taller microwave tower without it's directional antennae.
+
+STR_MWRT_2T            :Tall SW microwave tower
+STR_MWRT_2T_PURCHASE   :A taller microwave tower with it's antennae in a southwest orientation.
+
+STR_MWRT_3T            :Tall SW/NE microwave tower
+STR_MWRT_3T_PURCHASE   :A taller microwave tower with it's intennae in a southwest, and northeast orientation.
+
+STR_MWRT_4T            :Tall NE microwave tower
+STR_MWRT_4T_PURCHASE   :A taller microwave tower with it's antennae in a northeast orientation.
+
+STR_MWRT_5T            :Tall SE microwave tower
+STR_MWRT_5T_PURCHASE   :A taller microwave tower with it's antennae in a southeast orientation.
+
+STR_MWRT_6T            :Tall NW/SE microwave tower
+STR_MWRT_6T_PURCHASE   :A taller microwave tower with it's antennae in a northwest, and southeast orientation.
+
+STR_MWRT_7T            :Tall NW microwave tower
+STR_MWRT_7T_PURCHASE   :A taller microwave tower with it's antennae in a northwest orientation.
+
+STR_MWRT_8T            :Tall NW/NE microwave tower
+STR_MWRT_8T_PURCHASE   :A taller microwave tower with it's antennae in a northwest, and northeast orientation.
+
+STR_MWRT_9T            :Tall NE/SE microwave tower
+STR_MWRT_9T_PURCHASE   :A taller microwave tower with it's antennae in a northeast, and southeast orientation.
+
+STR_MWRT_10T           :Tall SW/SE microwave tower
+STR_MWRT_10T_PURCHASE  :A taller microwave tower with it's antennae in a southwest, and southeast orientation.
+
+STR_MWRT_11T           :Tall NW/SW microwave tower
+STR_MWRT_11T_PURCHASE  :A taller microwave tower with it's antennae in a northwest, and southwest orientation.
+
+STR_MWRT_12T           :Tall SW/NW/NE microwave tower
+STR_MWRT_12T_PURCHASE  :A taller microwave tower with it's antennae covering all aspects except southeast.
+
+STR_MWRT_13T           :Tall NW/NE/SE microwave tower
+STR_MWRT_13T_PURCHASE  :A taller microwave tower with it's antennae covering all aspects except southwest.
+
+STR_MWRT_14T           :Tall NE/SE/SW microwave tower
+STR_MWRT_14T_PURCHASE  :A taller microwave tower with it's antennae covering all aspects except northwest.
+
+STR_MWRT_15T           :Tall SE/SW/NW microwave tower
+STR_MWRT_15T_PURCHASE  :A taller microwave tower with it's antennae covering all aspects except northeast.
+
+STR_MWRT_16T           :Tall NW/NE/SE/SW microwave tower
+STR_MWRT_16T_PURCHASE  :A taller microwave tower with it's antennae covering all aspects.
+
+STR_MWRT_TSB           :Phone exchange building
+STR_MWRT_TSB_PURCHASE  :A tall brutalist switching center for your phone network, may also carry Television and Internet services in the future.
+
+STR_CELL_1             :Cellphone Tower
+STR_CELL_1_PURCHASE    :A tower you lease to wireless providers as cellphones go mainstream. You can also make it look like a very ugly tree if it upsets the local authority.
+
+STR_CELL_2	       :Tall cellphone tower
+STR_CELL_2_PURCHASE    :A rather large cellphone tower modeled after something I made out of plastic bricks a long time ago. Probably 2G infrastructure; good range but slooooow...
+
+STR_CELL_3             :UK-style 5G mast
+STR_CELL_3_PURCHASE    :Faster and more reliable cellular service but with a shorter range, so towers will need to be placed in closer proximity to provide the same coverage.
+
+STR_MWMC_1             :Mystery Transmitter
+STR_MWMC_1_PURCHASE    :Another made up tower. I'm not even sure what this one's for, but it has a microwave antenna.
+
+STR_MWMC_2	       :Microwave mast
+STR_MWMC_2_PURCHASE    :A large radio mast repurposed to mount microwave equiptment.
+
+STR_RMST_1             :AM radio mast
+STR_RMST_1_PURCHASE    :"If I touch this tower, I die."
+
+STR_RMST_2             :FM radio mast
+STR_RMST_2_PURCHASE    :A mast with circularly-polarized arrays for FM broadcast. Reverse-compatable with AM, so may also kill you if you touch it.
+
+STR_RMST_3             :VHF televison mast
+STR_RMST_3_PURCHASE    :A mast with "batwing" cross-dipole antennae for on-air TV.
+
+STR_RMST_4             :UHF television mast
+STR_RMST_4_PURCHASE    :A mast with a spire of UHF radiators for on-air TV.
+
+STR_RMST_5             :VHF & UHF television mast
+STR_RMST_5_PURCHASE    :A TV mast with a pair of spires that that broadcast VHF, and UHF Television respectivley.
+
+STR_RMST_6             :FM radio & UHF television mast
+STR_RMST_6_PURCHASE    :A combined TV and Radio mast with a pair of spires that broadcast FM radio, and UHF Television respectivley.
+
+STR_RTOW_1	       :AM radio tower
+STR_RTOW_1_PURCHASE     :A traditional radio tower sitting atop some insulated blocks. No touchie.
+
+STR_RTOW_2	       :FM radio tower
+STR_RTOW_2_PURCHASE     :A traditional radio tower, upgraded with an array of circularly-polarized antennas for FM broadcast.
+
+STR_RTOW_3	       :VHF television tower
+STR_RTOW_3_PURCHASE     :A traditional radio tower with "batwing" cross-dipole antennas for on-air TV.
+
+STR_RTOW_4              :UHF television tower
+STR_RTOW_4_PURCHASE     :A traditional radio tower with a spire of UHF radiators for on-air TV.
+
+STR_RNAV_1             :Airway marker
+STR_RNAV_1_PURCHASE    :A big yellow concrete arrow.
+
+STR_RNAV_2             :Airway beacon
+STR_RNAV_2_PURCHASE    :A big yellow concrete arrow, with an illuminated tower for night flying.
+
+STR_RNAV_3             :Low frequency radio range installation (LFR)
+STR_RNAV_3_PURCHASE    :An early directional radio beacon broadcasting 4 directional radio beams that pilots navigate by audio signal.
+
+STR_RNAV_4             :Non-directional beacon installation(NDB)
+STR_RNAV_4_PURCHASE    :A simple and widley deployed radio beacon. It broadcasts it's ID in morse, and aircraft locate it with their own loop antennas.
+
+STR_RNAV_5             :VHF omnidirectional range installation (VOR)
+STR_RNAV_5_PURCHASE    :A widley deployed directional radio beacon with 360 courses pilots can tune their instrumentation to. Later installations often come with integrated distance measuring equiptment (DME), or tactical airnav system (TACAN). It is the ultimate evolution of the radio beacons until made obsolete by GPS.
+
+
+
+
+
